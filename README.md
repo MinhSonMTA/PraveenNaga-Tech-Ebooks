@@ -1,5 +1,4 @@
 # PraveenNaga-Tech-Ebooks
-Praveen Naga Tech Ebooks
 
 # Introduction to Java and OOPS Concepts
 https://github.com/praveennaga/PraveenNaga-Tech-Ebooks/blob/master/Praveen%20Naga_%20Java%20Introduction_OOPS%20Concepts.pdf
